@@ -4,7 +4,7 @@
 
 This project was created during Meta's Coursera Front-End Development course. It is the culmination of the Front-End Development Track.
 
-The website showcases the implementation of a booking application. It was created with React components to demonstrate an understanding of using React for web development. Additionally, it features the use of API calls.
+The website showcases the implementation of a restaurant booking application. It was created with React components to demonstrate an understanding of using React for web development. Additionally, it features the use of API calls.
 
 **Please note:** The only functionality working on this website besides the design is the Reserve a Table function.
 
